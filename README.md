@@ -7,6 +7,7 @@ Instructors: Ben Marwick (University of Washington)
 
 Helpers: Matt Harris (AECOM), Liying Wang (University of Washington), Clemens Schmid (RGZM)
 
+Full schedule and details are here: https://benmarwick.github.io/2019-04-10-saa/
 
 ## How to download these materials
 
