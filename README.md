@@ -1,9 +1,11 @@
-![](conf-banner.png)
+Transparent and Open Archaeological Research Using R
+A Short Workshop at the Society of American Archaeology Annual Meeting, Albuquerque Convention Center
+April 10, 2019, 1-5 pm
 
-# Data Carpentry Workshop materials for the conference ["Big Data in Archaeology: Practicalities and Possibilities"](https://erikgjesfjeld.wixsite.com/big-data-archaeology)
+Instructors: Ben Marwick (University of Washington)
 
+Helpers: Matt Harris (AECOM), Liying Wang (University of Washington), Clemens Schmid (RGZM)
 
-The goal of this repository is to provide materials for the Data Carpentry section of the R workshop accompanying the conference: ["Big Data in Archaeology: Practicalities and Possibilities"](https://erikgjesfjeld.wixsite.com/big-data-archaeology). This event was held on 27-28 March, McDonald Institute for Archaeological Research, University of Cambridge.
 
 ## How to download these materials
 
